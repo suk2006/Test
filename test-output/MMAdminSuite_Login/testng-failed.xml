@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MMAdminSuite_Login]">
+  <parameter name="browser" value="chrome"/>
+  <test name="MMAdminTest_Login(failed)">
+    <groups>
+      <run>
+        <include name="login"/>
+        <include name="forgotPwd"/>
+        <include name="dashboard"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_1_006"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_1_004"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_005"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_008"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_1_001"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_010"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_1_007"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_009"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_1_002"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail -->
+    </classes>
+  </test> <!-- MMAdminTest_Login(failed) -->
+</suite> <!-- Failed suite [MMAdminSuite_Login] -->

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MMAdminSuite_ForgotPwd]">
+  <parameter name="browser" value="chrome"/>
+  <test name="MMAdminTest_ForgotPwd(failed)">
+    <groups>
+      <run>
+        <include name="login"/>
+        <include name="forgotPwd"/>
+        <include name="dashboard"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_022"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_021"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature">
+        <methods>
+          <include name="MMAdmin_TC_2_026"/>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter">
+        <methods>
+          <include name="MMAdmin_TC_2_010"/>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_023"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_005"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="MMAdmin_TC_2_017"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_007"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="MMAdmin_TC_2_004"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters">
+        <methods>
+          <include name="MMAdmin_TC_2_013"/>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="MMAdmin_TC_2_009"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_027"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_006"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_024"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="MMAdmin_TC_2_003"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_025"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_014"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="MMAdmin_TC_2_011"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_012"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_002"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_016"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_008"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_018"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_019"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn">
+        <methods>
+          <include name="MMAdmin_TC_2_001"/>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_2_020"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP -->
+    </classes>
+  </test> <!-- MMAdminTest_ForgotPwd(failed) -->
+</suite> <!-- Failed suite [MMAdminSuite_ForgotPwd] -->

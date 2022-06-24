@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MMAdminSuite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="MMAdminTest_Login_Module(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_009"/>
+          <include name="endTest"/>
+          <include name="initialiseReport"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd -->
+    </classes>
+  </test> <!-- MMAdminTest_Login_Module(failed) -->
+</suite> <!-- Failed suite [MMAdminSuite] -->

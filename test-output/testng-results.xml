@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="39" passed="38">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MMAdminSuite_ForgotPwd" duration-ms="253850" started-at="2022-06-21T12:13:49Z" finished-at="2022-06-21T12:18:03Z">
+    <groups>
+      <group name="regression">
+        <method signature="MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn.MMAdmin_TC_2_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn@768b970c]" name="MMAdmin_TC_2_001" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn"/>
+        <method signature="MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail.MMAdmin_TC_2_005()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail@4b53f538]" name="MMAdmin_TC_2_005" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail"/>
+        <method signature="MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd.MMAdmin_TC_2_019()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd@73d4cc9e]" name="MMAdmin_TC_2_019" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd"/>
+        <method signature="MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP.MMAdmin_TC_2_020()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP@80169cf]" name="MMAdmin_TC_2_020" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP"/>
+        <method signature="MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking.MMAdmin_TC_2_021()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking@5427c60c]" name="MMAdmin_TC_2_021" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking"/>
+        <method signature="MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking.MMAdmin_TC_2_022()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking@15bfd87]" name="MMAdmin_TC_2_022" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking"/>
+        <method signature="MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd.MMAdmin_TC_2_023()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd@543e710e]" name="MMAdmin_TC_2_023" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd"/>
+        <method signature="MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd.MMAdmin_TC_2_024()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd@57f23557]" name="MMAdmin_TC_2_024" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd"/>
+        <method signature="MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd.MMAdmin_TC_2_025()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd@3d0f8e03]" name="MMAdmin_TC_2_025" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd"/>
+        <method signature="MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature.MMAdmin_TC_2_026()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature@6366ebe0]" name="MMAdmin_TC_2_026" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature"/>
+        <method signature="MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature.MMAdmin_TC_2_027()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature@44f75083]" name="MMAdmin_TC_2_027" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature"/>
+      </group> <!-- regression -->
+      <group name="forgotPwd">
+        <method signature="MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn.MMAdmin_TC_2_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn@768b970c]" name="MMAdmin_TC_2_001" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn"/>
+        <method signature="MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation.MMAdmin_TC_2_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation@5a4041cc]" name="MMAdmin_TC_2_002" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation"/>
+        <method signature="MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail.MMAdmin_TC_2_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail@15b3e5b]" name="MMAdmin_TC_2_003" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail"/>
+        <method signature="MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail.MMAdmin_TC_2_004()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail@61ca2dfa]" name="MMAdmin_TC_2_004" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail"/>
+        <method signature="MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail.MMAdmin_TC_2_005()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail@4b53f538]" name="MMAdmin_TC_2_005" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail"/>
+        <method signature="MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters.MMAdmin_TC_2_006()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters@134593bf]" name="MMAdmin_TC_2_006" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters"/>
+        <method signature="MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation.MMAdmin_TC_2_007()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation@4bb4de6a]" name="MMAdmin_TC_2_007" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation"/>
+        <method signature="MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP.MMAdmin_TC_2_008()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP@7ba18f1b]" name="MMAdmin_TC_2_008" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP"/>
+        <method signature="MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation.MMAdmin_TC_2_009()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation@2f8f5f62]" name="MMAdmin_TC_2_009" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation"/>
+        <method signature="MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter.MMAdmin_TC_2_010()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter@1068e947]" name="MMAdmin_TC_2_010" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter"/>
+        <method signature="MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter.MMAdmin_TC_2_011()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter@7dc222ae]" name="MMAdmin_TC_2_011" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter"/>
+        <method signature="MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber.MMAdmin_TC_2_012()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber@aecb35a]" name="MMAdmin_TC_2_012" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber"/>
+        <method signature="MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters.MMAdmin_TC_2_013()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters@5fcd892a]" name="MMAdmin_TC_2_013" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters"/>
+        <method signature="MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters.MMAdmin_TC_2_014()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters@8b87145]" name="MMAdmin_TC_2_014" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters"/>
+        <method signature="MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd.MMAdmin_TC_2_016()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd@6483f5ae]" name="MMAdmin_TC_2_016" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd"/>
+        <method signature="MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd.MMAdmin_TC_2_017()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd@b9afc07]" name="MMAdmin_TC_2_017" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd"/>
+        <method signature="MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP.MMAdmin_TC_2_018()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP@382db087]" name="MMAdmin_TC_2_018" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP"/>
+        <method signature="MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd.MMAdmin_TC_2_019()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd@73d4cc9e]" name="MMAdmin_TC_2_019" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd"/>
+        <method signature="MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP.MMAdmin_TC_2_020()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP@80169cf]" name="MMAdmin_TC_2_020" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP"/>
+        <method signature="MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking.MMAdmin_TC_2_021()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking@5427c60c]" name="MMAdmin_TC_2_021" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking"/>
+        <method signature="MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking.MMAdmin_TC_2_022()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking@15bfd87]" name="MMAdmin_TC_2_022" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking"/>
+        <method signature="MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd.MMAdmin_TC_2_023()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd@543e710e]" name="MMAdmin_TC_2_023" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd"/>
+        <method signature="MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd.MMAdmin_TC_2_024()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd@57f23557]" name="MMAdmin_TC_2_024" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd"/>
+        <method signature="MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd.MMAdmin_TC_2_025()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd@3d0f8e03]" name="MMAdmin_TC_2_025" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd"/>
+        <method signature="MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature.MMAdmin_TC_2_026()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature@6366ebe0]" name="MMAdmin_TC_2_026" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature"/>
+        <method signature="MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature.MMAdmin_TC_2_027()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature@44f75083]" name="MMAdmin_TC_2_027" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature"/>
+      </group> <!-- forgotPwd -->
+      <group name="smoke">
+        <method signature="MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn.MMAdmin_TC_2_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn@768b970c]" name="MMAdmin_TC_2_001" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn"/>
+        <method signature="MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail.MMAdmin_TC_2_004()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail@61ca2dfa]" name="MMAdmin_TC_2_004" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail"/>
+        <method signature="MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail.MMAdmin_TC_2_005()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail@4b53f538]" name="MMAdmin_TC_2_005" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail"/>
+        <method signature="MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd.MMAdmin_TC_2_019()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd@73d4cc9e]" name="MMAdmin_TC_2_019" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd"/>
+        <method signature="MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP.MMAdmin_TC_2_020()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP@80169cf]" name="MMAdmin_TC_2_020" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP"/>
+        <method signature="MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking.MMAdmin_TC_2_021()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking@5427c60c]" name="MMAdmin_TC_2_021" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking"/>
+        <method signature="MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking.MMAdmin_TC_2_022()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking@15bfd87]" name="MMAdmin_TC_2_022" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking"/>
+        <method signature="MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd.MMAdmin_TC_2_023()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd@543e710e]" name="MMAdmin_TC_2_023" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd"/>
+        <method signature="MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd.MMAdmin_TC_2_024()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd@57f23557]" name="MMAdmin_TC_2_024" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd"/>
+        <method signature="MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd.MMAdmin_TC_2_025()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd@3d0f8e03]" name="MMAdmin_TC_2_025" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd"/>
+        <method signature="MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature.MMAdmin_TC_2_026()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature@6366ebe0]" name="MMAdmin_TC_2_026" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature"/>
+        <method signature="MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature.MMAdmin_TC_2_027()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature@44f75083]" name="MMAdmin_TC_2_027" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn.MMAdmin_TC_2_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn@768b970c]" name="MMAdmin_TC_2_001" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn"/>
+        <method signature="MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail.MMAdmin_TC_2_005()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail@4b53f538]" name="MMAdmin_TC_2_005" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail"/>
+        <method signature="MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter.MMAdmin_TC_2_010()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter@1068e947]" name="MMAdmin_TC_2_010" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter"/>
+        <method signature="MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter.MMAdmin_TC_2_011()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter@7dc222ae]" name="MMAdmin_TC_2_011" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter"/>
+        <method signature="MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber.MMAdmin_TC_2_012()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber@aecb35a]" name="MMAdmin_TC_2_012" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber"/>
+        <method signature="MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters.MMAdmin_TC_2_013()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters@5fcd892a]" name="MMAdmin_TC_2_013" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters"/>
+        <method signature="MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters.MMAdmin_TC_2_014()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters@8b87145]" name="MMAdmin_TC_2_014" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters"/>
+        <method signature="MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd.MMAdmin_TC_2_016()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd@6483f5ae]" name="MMAdmin_TC_2_016" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd"/>
+        <method signature="MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd.MMAdmin_TC_2_017()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd@b9afc07]" name="MMAdmin_TC_2_017" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd"/>
+        <method signature="MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP.MMAdmin_TC_2_018()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP@382db087]" name="MMAdmin_TC_2_018" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP"/>
+        <method signature="MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd.MMAdmin_TC_2_019()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd@73d4cc9e]" name="MMAdmin_TC_2_019" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd"/>
+        <method signature="MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP.MMAdmin_TC_2_020()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP@80169cf]" name="MMAdmin_TC_2_020" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP"/>
+        <method signature="MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking.MMAdmin_TC_2_021()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking@5427c60c]" name="MMAdmin_TC_2_021" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking"/>
+        <method signature="MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking.MMAdmin_TC_2_022()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking@15bfd87]" name="MMAdmin_TC_2_022" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking"/>
+        <method signature="MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd.MMAdmin_TC_2_023()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd@543e710e]" name="MMAdmin_TC_2_023" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd"/>
+        <method signature="MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd.MMAdmin_TC_2_024()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd@57f23557]" name="MMAdmin_TC_2_024" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd"/>
+        <method signature="MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd.MMAdmin_TC_2_025()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd@3d0f8e03]" name="MMAdmin_TC_2_025" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd"/>
+        <method signature="MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature.MMAdmin_TC_2_026()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature@6366ebe0]" name="MMAdmin_TC_2_026" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature"/>
+        <method signature="MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature.MMAdmin_TC_2_027()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature@44f75083]" name="MMAdmin_TC_2_027" class="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="MMAdminTest_ForgotPwd" duration-ms="253850" started-at="2022-06-21T12:13:49Z" finished-at="2022-06-21T12:18:03Z">
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd@6483f5ae]" name="startBrowser" is-config="true" duration-ms="3355" started-at="2022-06-21T17:45:23Z" finished-at="2022-06-21T17:45:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_016()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd@6483f5ae]" name="MMAdmin_TC_2_016" duration-ms="4065" started-at="2022-06-21T17:45:26Z" finished-at="2022-06-21T17:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_016 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd@6483f5ae]" name="tearDown" is-config="true" duration-ms="694" started-at="2022-06-21T17:45:30Z" finished-at="2022-06-21T17:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_016_ResetPwd_EnterSpaceWithinNewPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature@44f75083]" name="startBrowser" is-config="true" duration-ms="3352" started-at="2022-06-21T17:47:56Z" finished-at="2022-06-21T17:48:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_027()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature@44f75083]" name="MMAdmin_TC_2_027" duration-ms="2057" started-at="2022-06-21T17:48:00Z" finished-at="2022-06-21T17:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_027 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature@44f75083]" name="tearDown" is-config="true" duration-ms="701" started-at="2022-06-21T17:48:02Z" finished-at="2022-06-21T17:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_027_ForgotPwd_CheckLoginBtnFeature -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters@5fcd892a]" name="startBrowser" is-config="true" duration-ms="3387" started-at="2022-06-21T17:45:08Z" finished-at="2022-06-21T17:45:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_013()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters@5fcd892a]" name="MMAdmin_TC_2_013" duration-ms="3782" started-at="2022-06-21T17:45:11Z" finished-at="2022-06-21T17:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_013 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters@5fcd892a]" name="tearDown" is-config="true" duration-ms="704" started-at="2022-06-21T17:45:15Z" finished-at="2022-06-21T17:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_013_ResetPwd_EnterNewPwdWithoutSpclCharacters -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking@5427c60c]" name="startBrowser" is-config="true" duration-ms="3421" started-at="2022-06-21T17:46:38Z" finished-at="2022-06-21T17:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_021()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking@5427c60c]" name="MMAdmin_TC_2_021" duration-ms="2363" started-at="2022-06-21T17:46:42Z" finished-at="2022-06-21T17:46:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_021 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking@5427c60c]" name="tearDown" is-config="true" duration-ms="691" started-at="2022-06-21T17:46:44Z" finished-at="2022-06-21T17:46:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_021_ResetPwd_CheckNewPwdFldPwdMasking -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters@8b87145]" name="startBrowser" is-config="true" duration-ms="3341" started-at="2022-06-21T17:45:15Z" finished-at="2022-06-21T17:45:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_014()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters@8b87145]" name="MMAdmin_TC_2_014" duration-ms="2880" started-at="2022-06-21T17:45:19Z" finished-at="2022-06-21T17:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_014 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters@8b87145]" name="tearDown" is-config="true" duration-ms="1164" started-at="2022-06-21T17:45:22Z" finished-at="2022-06-21T17:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_014_ResetPwd_EnterNewPwdOfLessthan8Characters -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail@61ca2dfa]" name="startBrowser" is-config="true" duration-ms="3335" started-at="2022-06-21T17:44:05Z" finished-at="2022-06-21T17:44:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_004()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail@61ca2dfa]" name="MMAdmin_TC_2_004" duration-ms="2055" started-at="2022-06-21T17:44:08Z" finished-at="2022-06-21T17:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_004 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail@61ca2dfa]" name="tearDown" is-config="true" duration-ms="689" started-at="2022-06-21T17:44:10Z" finished-at="2022-06-21T17:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_004_ForgotPwd_EnterUnregisteredEmail -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters@134593bf]" name="startBrowser" is-config="true" duration-ms="3356" started-at="2022-06-21T17:44:17Z" finished-at="2022-06-21T17:44:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_006()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters@134593bf]" name="MMAdmin_TC_2_006" duration-ms="2488" started-at="2022-06-21T17:44:21Z" finished-at="2022-06-21T17:44:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_006 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters@134593bf]" name="tearDown" is-config="true" duration-ms="715" started-at="2022-06-21T17:44:23Z" finished-at="2022-06-21T17:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_006_ResetPwd_OTPFieldValidationWithInvalidCharacters -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber@aecb35a]" name="startBrowser" is-config="true" duration-ms="3397" started-at="2022-06-21T17:45:01Z" finished-at="2022-06-21T17:45:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_012()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber@aecb35a]" name="MMAdmin_TC_2_012" duration-ms="2775" started-at="2022-06-21T17:45:04Z" finished-at="2022-06-21T17:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_012 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber@aecb35a]" name="tearDown" is-config="true" duration-ms="687" started-at="2022-06-21T17:45:07Z" finished-at="2022-06-21T17:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_012_ResetPwd_EnterNewPwdWithoutNumber -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd@3d0f8e03]" name="startBrowser" is-config="true" duration-ms="3332" started-at="2022-06-21T17:47:05Z" finished-at="2022-06-21T17:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_025()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd@3d0f8e03]" name="MMAdmin_TC_2_025" duration-ms="40718" started-at="2022-06-21T17:47:08Z" finished-at="2022-06-21T17:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_025 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd@3d0f8e03]" name="tearDown" is-config="true" duration-ms="735" started-at="2022-06-21T17:47:49Z" finished-at="2022-06-21T17:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_025_ResetPwd_ResetUserAccPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter@1068e947]" name="startBrowser" is-config="true" duration-ms="3294" started-at="2022-06-21T17:44:46Z" finished-at="2022-06-21T17:44:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_010()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter@1068e947]" name="MMAdmin_TC_2_010" duration-ms="2931" started-at="2022-06-21T17:44:50Z" finished-at="2022-06-21T17:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_010 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter@1068e947]" name="tearDown" is-config="true" duration-ms="703" started-at="2022-06-21T17:44:52Z" finished-at="2022-06-21T17:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_010_ResetPwd_EnterNewPwdWithoutLowercaseLetter -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP@80169cf]" name="startBrowser" is-config="true" duration-ms="3331" started-at="2022-06-21T17:45:53Z" finished-at="2022-06-21T17:45:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_020()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP@80169cf]" name="MMAdmin_TC_2_020" duration-ms="40961" started-at="2022-06-21T17:45:57Z" finished-at="2022-06-21T17:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_020 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP@80169cf]" name="tearDown" is-config="true" duration-ms="737" started-at="2022-06-21T17:46:38Z" finished-at="2022-06-21T17:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_020_ResetPwd_EnterProperPwdAndCorrectOTP -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP@382db087]" name="startBrowser" is-config="true" duration-ms="3356" started-at="2022-06-21T17:45:39Z" finished-at="2022-06-21T17:45:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_018()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP@382db087]" name="MMAdmin_TC_2_018" duration-ms="3755" started-at="2022-06-21T17:45:42Z" finished-at="2022-06-21T17:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_018 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP@382db087]" name="tearDown" is-config="true" duration-ms="679" started-at="2022-06-21T17:45:46Z" finished-at="2022-06-21T17:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_018_ResetPwd_EnterProperPwdButWrongOTP -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter@7dc222ae]" name="startBrowser" is-config="true" duration-ms="3438" started-at="2022-06-21T17:44:53Z" finished-at="2022-06-21T17:44:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_011()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter@7dc222ae]" name="MMAdmin_TC_2_011" duration-ms="2917" started-at="2022-06-21T17:44:57Z" finished-at="2022-06-21T17:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_011 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter@7dc222ae]" name="tearDown" is-config="true" duration-ms="1195" started-at="2022-06-21T17:45:00Z" finished-at="2022-06-21T17:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_011_ResetPwd_EnterNewPwdWithoutUppercaseLetter -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd@73d4cc9e]" name="startBrowser" is-config="true" duration-ms="3333" started-at="2022-06-21T17:45:47Z" finished-at="2022-06-21T17:45:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_019()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd@73d4cc9e]" name="MMAdmin_TC_2_019" duration-ms="2650" started-at="2022-06-21T17:45:50Z" finished-at="2022-06-21T17:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_019 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd@73d4cc9e]" name="tearDown" is-config="true" duration-ms="692" started-at="2022-06-21T17:45:53Z" finished-at="2022-06-21T17:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_019_ResetPwd_EnterTwoDiffPwdAtNewAndConfirmPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation@4bb4de6a]" name="startBrowser" is-config="true" duration-ms="3327" started-at="2022-06-21T17:44:24Z" finished-at="2022-06-21T17:44:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_007()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation@4bb4de6a]" name="MMAdmin_TC_2_007" duration-ms="2741" started-at="2022-06-21T17:44:27Z" finished-at="2022-06-21T17:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_007 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation@4bb4de6a]" name="tearDown" is-config="true" duration-ms="694" started-at="2022-06-21T17:44:30Z" finished-at="2022-06-21T17:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_007_ResetPwd_OTPFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd@b9afc07]" name="startBrowser" is-config="true" duration-ms="3486" started-at="2022-06-21T17:45:31Z" finished-at="2022-06-21T17:45:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_017()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd@b9afc07]" name="MMAdmin_TC_2_017" duration-ms="3715" started-at="2022-06-21T17:45:34Z" finished-at="2022-06-21T17:45:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_017 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd@b9afc07]" name="tearDown" is-config="true" duration-ms="686" started-at="2022-06-21T17:45:38Z" finished-at="2022-06-21T17:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_017_ResetPwd_EnterPercentageCharacterWithinNewPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn@768b970c]" name="startBrowser" is-config="true" duration-ms="3457" started-at="2022-06-21T17:43:49Z" finished-at="2022-06-21T17:43:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn@768b970c]" name="MMAdmin_TC_2_001" duration-ms="683" started-at="2022-06-21T17:43:52Z" finished-at="2022-06-21T17:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn@768b970c]" name="tearDown" is-config="true" duration-ms="691" started-at="2022-06-21T17:43:53Z" finished-at="2022-06-21T17:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd@57f23557]" name="startBrowser" is-config="true" duration-ms="3590" started-at="2022-06-21T17:46:58Z" finished-at="2022-06-21T17:47:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_024()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd@57f23557]" name="MMAdmin_TC_2_024" duration-ms="2426" started-at="2022-06-21T17:47:02Z" finished-at="2022-06-21T17:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_024 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd@57f23557]" name="tearDown" is-config="true" duration-ms="696" started-at="2022-06-21T17:47:04Z" finished-at="2022-06-21T17:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_024_ResetPwd_LoginWithExpiredPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd@543e710e]" name="startBrowser" is-config="true" duration-ms="3363" started-at="2022-06-21T17:46:51Z" finished-at="2022-06-21T17:46:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_023()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd@543e710e]" name="MMAdmin_TC_2_023" duration-ms="2549" started-at="2022-06-21T17:46:55Z" finished-at="2022-06-21T17:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_023 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd@543e710e]" name="tearDown" is-config="true" duration-ms="686" started-at="2022-06-21T17:46:57Z" finished-at="2022-06-21T17:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_023_ResetPwd_LoginWithNewPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail@4b53f538]" name="startBrowser" is-config="true" duration-ms="3554" started-at="2022-06-21T17:44:11Z" finished-at="2022-06-21T17:44:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_005()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail@4b53f538]" name="MMAdmin_TC_2_005" duration-ms="1938" started-at="2022-06-21T17:44:15Z" finished-at="2022-06-21T17:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_005 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail@4b53f538]" name="tearDown" is-config="true" duration-ms="703" started-at="2022-06-21T17:44:17Z" finished-at="2022-06-21T17:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_005_ForgotPwd_EnterRegisteredEmail -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation@2f8f5f62]" name="startBrowser" is-config="true" duration-ms="3353" started-at="2022-06-21T17:44:39Z" finished-at="2022-06-21T17:44:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_009()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation@2f8f5f62]" name="MMAdmin_TC_2_009" duration-ms="2773" started-at="2022-06-21T17:44:43Z" finished-at="2022-06-21T17:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_009 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation@2f8f5f62]" name="tearDown" is-config="true" duration-ms="677" started-at="2022-06-21T17:44:46Z" finished-at="2022-06-21T17:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_009_ResetPwd_NewPasswordFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation@5a4041cc]" name="startBrowser" is-config="true" duration-ms="3521" started-at="2022-06-21T17:43:54Z" finished-at="2022-06-21T17:43:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation@5a4041cc]" name="MMAdmin_TC_2_002" duration-ms="1049" started-at="2022-06-21T17:43:57Z" finished-at="2022-06-21T17:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation@5a4041cc]" name="tearDown" is-config="true" duration-ms="679" started-at="2022-06-21T17:43:58Z" finished-at="2022-06-21T17:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_002_ForgotPwd_EmailFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking@15bfd87]" name="startBrowser" is-config="true" duration-ms="3391" started-at="2022-06-21T17:46:45Z" finished-at="2022-06-21T17:46:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_022()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking@15bfd87]" name="MMAdmin_TC_2_022" duration-ms="2398" started-at="2022-06-21T17:46:48Z" finished-at="2022-06-21T17:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_022 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking@15bfd87]" name="tearDown" is-config="true" duration-ms="688" started-at="2022-06-21T17:46:51Z" finished-at="2022-06-21T17:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_022_ResetPwd_CheckCnfrmPwdFldPwdMasking -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail@15b3e5b]" name="startBrowser" is-config="true" duration-ms="3485" started-at="2022-06-21T17:43:59Z" finished-at="2022-06-21T17:44:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail@15b3e5b]" name="MMAdmin_TC_2_003" duration-ms="1986" started-at="2022-06-21T17:44:02Z" finished-at="2022-06-21T17:44:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_003 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail@15b3e5b]" name="tearDown" is-config="true" duration-ms="659" started-at="2022-06-21T17:44:04Z" finished-at="2022-06-21T17:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_003_ForgotPwd_EnterInvalidEmail -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP@7ba18f1b]" name="startBrowser" is-config="true" duration-ms="3305" started-at="2022-06-21T17:44:31Z" finished-at="2022-06-21T17:44:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_008()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP@7ba18f1b]" name="MMAdmin_TC_2_008" duration-ms="4951" started-at="2022-06-21T17:44:34Z" finished-at="2022-06-21T17:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_008 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP@7ba18f1b]" name="tearDown" is-config="true" duration-ms="675" started-at="2022-06-21T17:44:39Z" finished-at="2022-06-21T17:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_008_ResetPwd_EnterInvalidOTP -->
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature@6366ebe0]" name="startBrowser" is-config="true" duration-ms="3336" started-at="2022-06-21T17:47:49Z" finished-at="2022-06-21T17:47:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_2_026()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature@6366ebe0]" name="MMAdmin_TC_2_026" duration-ms="2992" started-at="2022-06-21T17:47:53Z" finished-at="2022-06-21T17:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_2_026 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature@6366ebe0]" name="tearDown" is-config="true" duration-ms="701" started-at="2022-06-21T17:47:56Z" finished-at="2022-06-21T17:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_026_ResetPwd_CheckLoginBtnFeature -->
+    </test> <!-- MMAdminTest_ForgotPwd -->
+  </suite> <!-- MMAdminSuite_ForgotPwd -->
+  <suite name="MMAdminSuite_Dashboard" duration-ms="23107" started-at="2022-06-21T12:18:03Z" finished-at="2022-06-21T12:18:26Z">
+    <groups>
+      <group name="regression">
+        <method signature="MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu.MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@133e16fd]" name="MMAdmin_TC_3_001" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu"/>
+        <method signature="MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo.MMAdmin_TC_3_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@51b279c9]" name="MMAdmin_TC_3_002" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo"/>
+        <method signature="MMAdmin_TC_3_003_Dashboard_CheckPrefundBal.MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@1ad282e0]" name="MMAdmin_TC_3_003" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu.MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@133e16fd]" name="MMAdmin_TC_3_001" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu"/>
+        <method signature="MMAdmin_TC_3_003_Dashboard_CheckPrefundBal.MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@1ad282e0]" name="MMAdmin_TC_3_003" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu.MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@133e16fd]" name="MMAdmin_TC_3_001" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu"/>
+        <method signature="MMAdmin_TC_3_003_Dashboard_CheckPrefundBal.MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@1ad282e0]" name="MMAdmin_TC_3_003" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal"/>
+      </group> <!-- sanity -->
+      <group name="dashboard">
+        <method signature="MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu.MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@133e16fd]" name="MMAdmin_TC_3_001" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu"/>
+        <method signature="MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo.MMAdmin_TC_3_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@51b279c9]" name="MMAdmin_TC_3_002" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo"/>
+        <method signature="MMAdmin_TC_3_003_Dashboard_CheckPrefundBal.MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@1ad282e0]" name="MMAdmin_TC_3_003" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal"/>
+      </group> <!-- dashboard -->
+    </groups>
+    <test name="MMAdminTest_Dashboard" duration-ms="23107" started-at="2022-06-21T12:18:03Z" finished-at="2022-06-21T12:18:26Z">
+      <class name="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@133e16fd]" name="startBrowser" is-config="true" duration-ms="3356" started-at="2022-06-21T17:48:03Z" finished-at="2022-06-21T17:48:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@133e16fd]" name="MMAdmin_TC_3_001" duration-ms="3507" started-at="2022-06-21T17:48:06Z" finished-at="2022-06-21T17:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_3_001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@133e16fd]" name="tearDown" is-config="true" duration-ms="694" started-at="2022-06-21T17:48:09Z" finished-at="2022-06-21T17:48:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu -->
+      <class name="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@51b279c9]" name="startBrowser" is-config="true" duration-ms="3409" started-at="2022-06-21T17:48:10Z" finished-at="2022-06-21T17:48:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_3_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@51b279c9]" name="MMAdmin_TC_3_002" duration-ms="3573" started-at="2022-06-21T17:48:14Z" finished-at="2022-06-21T17:48:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_3_002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@51b279c9]" name="tearDown" is-config="true" duration-ms="718" started-at="2022-06-21T17:48:17Z" finished-at="2022-06-21T17:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo -->
+      <class name="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@1ad282e0]" name="startBrowser" is-config="true" duration-ms="3288" started-at="2022-06-21T17:48:18Z" finished-at="2022-06-21T17:48:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@1ad282e0]" name="MMAdmin_TC_3_003" duration-ms="3851" started-at="2022-06-21T17:48:21Z" finished-at="2022-06-21T17:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_3_003 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@1ad282e0]" name="tearDown" is-config="true" duration-ms="707" started-at="2022-06-21T17:48:25Z" finished-at="2022-06-21T17:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal -->
+    </test> <!-- MMAdminTest_Dashboard -->
+  </suite> <!-- MMAdminSuite_Dashboard -->
+  <suite name="MMAdminSuite_Main" duration-ms="0" started-at="2022-06-21T12:18:26Z" finished-at="2022-06-21T12:18:26Z">
+    <groups>
+    </groups>
+  </suite> <!-- MMAdminSuite_Main -->
+  <suite name="MMAdminSuite_Login" duration-ms="56326" started-at="2022-06-21T12:12:52Z" finished-at="2022-06-21T12:13:49Z">
+    <groups>
+      <group name="regression">
+        <method signature="MMAdmin_TC_1_001_Login_ValidateEmailAndPassword.MMAdmin_TC_1_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword@5ce81285]" name="MMAdmin_TC_1_001" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword"/>
+        <method signature="MMAdmin_TC_1_002_Login_LoginWithInvalidEmail.MMAdmin_TC_1_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail@78c03f1f]" name="MMAdmin_TC_1_002" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail"/>
+        <method signature="MMAdmin_TC_1_004_Login_EmailFieldValidation.MMAdmin_TC_1_004()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation@5ec0a365]" name="MMAdmin_TC_1_004" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation"/>
+        <method signature="MMAdmin_TC_1_005_Login_PasswordFieldValidation.MMAdmin_TC_005()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation@4fe3c938]" name="MMAdmin_TC_005" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation"/>
+        <method signature="MMAdmin_TC_1_006_Login_CheckPasswordMasking.MMAdmin_TC_1_006()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking@5383967b]" name="MMAdmin_TC_1_006" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking"/>
+        <method signature="MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail.MMAdmin_TC_1_007()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail@2ac273d3]" name="MMAdmin_TC_1_007" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail"/>
+        <method signature="MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd.MMAdmin_TC_008()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd@71423665]" name="MMAdmin_TC_008" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd"/>
+        <method signature="MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd.MMAdmin_TC_009()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd@20398b7c]" name="MMAdmin_TC_009" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd"/>
+        <method signature="MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey.MMAdmin_TC_010()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey@6fc6f14e]" name="MMAdmin_TC_010" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd.MMAdmin_TC_009()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd@20398b7c]" name="MMAdmin_TC_009" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="MMAdmin_TC_1_006_Login_CheckPasswordMasking.MMAdmin_TC_1_006()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking@5383967b]" name="MMAdmin_TC_1_006" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking"/>
+        <method signature="MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail.MMAdmin_TC_1_007()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail@2ac273d3]" name="MMAdmin_TC_1_007" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail"/>
+        <method signature="MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd.MMAdmin_TC_008()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd@71423665]" name="MMAdmin_TC_008" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd"/>
+        <method signature="MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd.MMAdmin_TC_009()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd@20398b7c]" name="MMAdmin_TC_009" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd"/>
+      </group> <!-- sanity -->
+      <group name="login">
+        <method signature="MMAdmin_TC_1_001_Login_ValidateEmailAndPassword.MMAdmin_TC_1_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword@5ce81285]" name="MMAdmin_TC_1_001" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword"/>
+        <method signature="MMAdmin_TC_1_002_Login_LoginWithInvalidEmail.MMAdmin_TC_1_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail@78c03f1f]" name="MMAdmin_TC_1_002" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail"/>
+        <method signature="MMAdmin_TC_1_004_Login_EmailFieldValidation.MMAdmin_TC_1_004()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation@5ec0a365]" name="MMAdmin_TC_1_004" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation"/>
+        <method signature="MMAdmin_TC_1_005_Login_PasswordFieldValidation.MMAdmin_TC_005()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation@4fe3c938]" name="MMAdmin_TC_005" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation"/>
+        <method signature="MMAdmin_TC_1_006_Login_CheckPasswordMasking.MMAdmin_TC_1_006()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking@5383967b]" name="MMAdmin_TC_1_006" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking"/>
+        <method signature="MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail.MMAdmin_TC_1_007()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail@2ac273d3]" name="MMAdmin_TC_1_007" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail"/>
+        <method signature="MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd.MMAdmin_TC_008()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd@71423665]" name="MMAdmin_TC_008" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd"/>
+        <method signature="MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd.MMAdmin_TC_009()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd@20398b7c]" name="MMAdmin_TC_009" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd"/>
+        <method signature="MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey.MMAdmin_TC_010()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey@6fc6f14e]" name="MMAdmin_TC_010" class="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="MMAdminTest_Login" duration-ms="56326" started-at="2022-06-21T12:12:52Z" finished-at="2022-06-21T12:13:49Z">
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation@4fe3c938]" name="startBrowser" is-config="true" duration-ms="3383" started-at="2022-06-21T17:43:11Z" finished-at="2022-06-21T17:43:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_005()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation@4fe3c938]" name="MMAdmin_TC_005" duration-ms="999" started-at="2022-06-21T17:43:15Z" finished-at="2022-06-21T17:43:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_005 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation@4fe3c938]" name="tearDown" is-config="true" duration-ms="723" started-at="2022-06-21T17:43:16Z" finished-at="2022-06-21T17:43:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_005_Login_PasswordFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking@5383967b]" name="startBrowser" is-config="true" duration-ms="3623" started-at="2022-06-21T17:43:16Z" finished-at="2022-06-21T17:43:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_1_006()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking@5383967b]" name="MMAdmin_TC_1_006" duration-ms="245" started-at="2022-06-21T17:43:20Z" finished-at="2022-06-21T17:43:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_1_006 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking@5383967b]" name="tearDown" is-config="true" duration-ms="691" started-at="2022-06-21T17:43:20Z" finished-at="2022-06-21T17:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_006_Login_CheckPasswordMasking -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd@71423665]" name="startBrowser" is-config="true" duration-ms="3348" started-at="2022-06-21T17:43:27Z" finished-at="2022-06-21T17:43:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_008()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd@71423665]" name="MMAdmin_TC_008" duration-ms="2684" started-at="2022-06-21T17:43:30Z" finished-at="2022-06-21T17:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_008 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd@71423665]" name="tearDown" is-config="true" duration-ms="669" started-at="2022-06-21T17:43:33Z" finished-at="2022-06-21T17:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_008_Login_LoginWithCorrectEmailAndWrongPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd@20398b7c]" name="startBrowser" is-config="true" duration-ms="3540" started-at="2022-06-21T17:43:34Z" finished-at="2022-06-21T17:43:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_009()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd@20398b7c]" name="MMAdmin_TC_009" duration-ms="2706" started-at="2022-06-21T17:43:37Z" finished-at="2022-06-21T17:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_009 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd@20398b7c]" name="tearDown" is-config="true" duration-ms="722" started-at="2022-06-21T17:43:40Z" finished-at="2022-06-21T17:43:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_009_Login_LoginWithCorrectEmailAndPwd -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail@78c03f1f]" name="startBrowser" is-config="true" duration-ms="3380" started-at="2022-06-21T17:43:00Z" finished-at="2022-06-21T17:43:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_1_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail@78c03f1f]" name="MMAdmin_TC_1_002" duration-ms="2078" started-at="2022-06-21T17:43:03Z" finished-at="2022-06-21T17:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_1_002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail@78c03f1f]" name="tearDown" is-config="true" duration-ms="688" started-at="2022-06-21T17:43:05Z" finished-at="2022-06-21T17:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_002_Login_LoginWithInvalidEmail -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation@5ec0a365]" name="startBrowser" is-config="true" duration-ms="3402" started-at="2022-06-21T17:43:06Z" finished-at="2022-06-21T17:43:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_1_004()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation@5ec0a365]" name="MMAdmin_TC_1_004" duration-ms="951" started-at="2022-06-21T17:43:10Z" finished-at="2022-06-21T17:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_1_004 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation@5ec0a365]" name="tearDown" is-config="true" duration-ms="688" started-at="2022-06-21T17:43:11Z" finished-at="2022-06-21T17:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_004_Login_EmailFieldValidation -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword@5ce81285]" name="startBrowser" is-config="true" duration-ms="4840" started-at="2022-06-21T17:42:52Z" finished-at="2022-06-21T17:42:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_1_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword@5ce81285]" name="MMAdmin_TC_1_001" duration-ms="2099" started-at="2022-06-21T17:42:57Z" finished-at="2022-06-21T17:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_1_001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword@5ce81285]" name="tearDown" is-config="true" duration-ms="706" started-at="2022-06-21T17:42:59Z" finished-at="2022-06-21T17:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_001_Login_ValidateEmailAndPassword -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey@6fc6f14e]" name="startBrowser" is-config="true" duration-ms="3461" started-at="2022-06-21T17:43:41Z" finished-at="2022-06-21T17:43:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_010()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey@6fc6f14e]" name="MMAdmin_TC_010" duration-ms="3792" started-at="2022-06-21T17:43:44Z" finished-at="2022-06-21T17:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_010 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey@6fc6f14e]" name="tearDown" is-config="true" duration-ms="705" started-at="2022-06-21T17:43:48Z" finished-at="2022-06-21T17:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_010_Login_LoginWithCorrectEmailAndPwdByPressingEnterKey -->
+      <class name="com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail@2ac273d3]" name="startBrowser" is-config="true" duration-ms="3414" started-at="2022-06-21T17:43:21Z" finished-at="2022-06-21T17:43:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_1_007()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail@2ac273d3]" name="MMAdmin_TC_1_007" duration-ms="2064" started-at="2022-06-21T17:43:24Z" finished-at="2022-06-21T17:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_1_007 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail@2ac273d3]" name="tearDown" is-config="true" duration-ms="696" started-at="2022-06-21T17:43:26Z" finished-at="2022-06-21T17:43:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.login.MMAdmin_TC_1_007_Login_LoginWithUnregisteredEmail -->
+    </test> <!-- MMAdminTest_Login -->
+  </suite> <!-- MMAdminSuite_Login -->
+</testng-results>

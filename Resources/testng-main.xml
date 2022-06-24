@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MMAdminSuite_Main">
+
+	<groups>
+		<run>
+			<include name="dashboard" />
+		</run>
+	</groups>
+
+	<parameter name="browser" value="chrome" />
+
+	<suite-files>
+		<suite-file path="./Resources/testng-module-xml/testng-login.xml" />
+		<suite-file path="./Resources/testng-module-xml/testng-forgotpwd.xml" />
+		<suite-file path="./Resources/testng-module-xml/testng-dashboard.xml" />
+	</suite-files>
+</suite> <!-- Suite -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MMAdminSuite_Dashboard]">
+  <parameter name="browser" value="chrome"/>
+  <test name="MMAdminTest_Dashboard(failed)">
+    <groups>
+      <run>
+        <include name="dashboard"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="MMAdmin_TC_3_001"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu -->
+    </classes>
+  </test> <!-- MMAdminTest_Dashboard(failed) -->
+</suite> <!-- Failed suite [MMAdminSuite_Dashboard] -->

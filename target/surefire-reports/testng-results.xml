@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="36" total="39" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MMAdminSuite_ForgotPwd" duration-ms="0" started-at="2022-06-23T21:23:10 IST" finished-at="2022-06-23T21:23:10 IST">
+    <groups>
+    </groups>
+    <test name="MMAdminTest_ForgotPwd" duration-ms="0" started-at="2022-06-23T21:23:10 IST" finished-at="2022-06-23T21:23:10 IST">
+    </test> <!-- MMAdminTest_ForgotPwd -->
+  </suite> <!-- MMAdminSuite_ForgotPwd -->
+  <suite name="MMAdminSuite_Dashboard" duration-ms="27036" started-at="2022-06-23T21:23:10 IST" finished-at="2022-06-23T21:23:37 IST">
+    <groups>
+      <group name="regression">
+        <method signature="MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu.MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@516be40f]" name="MMAdmin_TC_3_001" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu"/>
+        <method signature="MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo.MMAdmin_TC_3_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@3c0a50da]" name="MMAdmin_TC_3_002" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo"/>
+        <method signature="MMAdmin_TC_3_003_Dashboard_CheckPrefundBal.MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@646be2c3]" name="MMAdmin_TC_3_003" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu.MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@516be40f]" name="MMAdmin_TC_3_001" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu"/>
+        <method signature="MMAdmin_TC_3_003_Dashboard_CheckPrefundBal.MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@646be2c3]" name="MMAdmin_TC_3_003" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu.MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@516be40f]" name="MMAdmin_TC_3_001" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu"/>
+        <method signature="MMAdmin_TC_3_003_Dashboard_CheckPrefundBal.MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@646be2c3]" name="MMAdmin_TC_3_003" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal"/>
+      </group> <!-- sanity -->
+      <group name="dashboard">
+        <method signature="MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu.MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@516be40f]" name="MMAdmin_TC_3_001" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu"/>
+        <method signature="MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo.MMAdmin_TC_3_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@3c0a50da]" name="MMAdmin_TC_3_002" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo"/>
+        <method signature="MMAdmin_TC_3_003_Dashboard_CheckPrefundBal.MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@646be2c3]" name="MMAdmin_TC_3_003" class="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal"/>
+      </group> <!-- dashboard -->
+    </groups>
+    <test name="MMAdminTest_Dashboard" duration-ms="27036" started-at="2022-06-23T21:23:10 IST" finished-at="2022-06-23T21:23:37 IST">
+      <class name="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@516be40f]" name="startBrowser" is-config="true" duration-ms="4177" started-at="2022-06-23T21:23:10 IST" finished-at="2022-06-23T21:23:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_3_001()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@516be40f]" name="MMAdmin_TC_3_001" duration-ms="4084" started-at="2022-06-23T21:23:15 IST" finished-at="2022-06-23T21:23:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_3_001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu@516be40f]" name="tearDown" is-config="true" duration-ms="667" started-at="2022-06-23T21:23:19 IST" finished-at="2022-06-23T21:23:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_001_Dashboard_CheckDashboardMenu -->
+      <class name="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@3c0a50da]" name="startBrowser" is-config="true" duration-ms="4140" started-at="2022-06-23T21:23:19 IST" finished-at="2022-06-23T21:23:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_3_002()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@3c0a50da]" name="MMAdmin_TC_3_002" duration-ms="3423" started-at="2022-06-23T21:23:23 IST" finished-at="2022-06-23T21:23:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_3_002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo@3c0a50da]" name="tearDown" is-config="true" duration-ms="678" started-at="2022-06-23T21:23:27 IST" finished-at="2022-06-23T21:23:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_002_Dashboard_ClickUserAccLogo -->
+      <class name="com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@646be2c3]" name="startBrowser" is-config="true" duration-ms="3576" started-at="2022-06-23T21:23:28 IST" finished-at="2022-06-23T21:23:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="MMAdmin_TC_3_003()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@646be2c3]" name="MMAdmin_TC_3_003" duration-ms="5602" started-at="2022-06-23T21:23:31 IST" finished-at="2022-06-23T21:23:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MMAdmin_TC_3_003 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal@646be2c3]" name="tearDown" is-config="true" duration-ms="664" started-at="2022-06-23T21:23:37 IST" finished-at="2022-06-23T21:23:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stylopay.MMAdmin.testCases.dashboard.MMAdmin_TC_3_003_Dashboard_CheckPrefundBal -->
+    </test> <!-- MMAdminTest_Dashboard -->
+  </suite> <!-- MMAdminSuite_Dashboard -->
+  <suite name="MMAdminSuite_Main" duration-ms="0" started-at="2022-06-23T21:23:37 IST" finished-at="2022-06-23T21:23:37 IST">
+    <groups>
+    </groups>
+  </suite> <!-- MMAdminSuite_Main -->
+  <suite name="MMAdminSuite_Login" duration-ms="6" started-at="2022-06-23T21:23:10 IST" finished-at="2022-06-23T21:23:10 IST">
+    <groups>
+    </groups>
+    <test name="MMAdminTest_Login" duration-ms="6" started-at="2022-06-23T21:23:10 IST" finished-at="2022-06-23T21:23:10 IST">
+    </test> <!-- MMAdminTest_Login -->
+  </suite> <!-- MMAdminSuite_Login -->
+</testng-results>

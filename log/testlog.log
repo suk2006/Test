@@ -1,0 +1,899 @@
+2022-04-29 18:52:02,601 - MMADminPortalLogs -INFO - entered username
+2022-04-29 18:52:02,715 - MMADminPortalLogs -INFO - entered password
+2022-04-29 18:52:06,989 - MMADminPortalLogs -ERROR - got error
+2022-04-30 16:17:27,522 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:17:27,800 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:19:52,498 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:19:52,719 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:22:11,400 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:22:11,647 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:28:58,157 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:28:58,403 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:30:40,899 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:30:41,131 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:32:19,776 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:32:20,010 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:33:53,004 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:33:53,234 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:40:21,075 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:40:21,283 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:43:57,239 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:43:57,486 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:45:11,384 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:45:11,631 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:46:15,198 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:46:15,445 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:46:51,804 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Email Field empty
+2022-04-30 16:46:52,083 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:54:41,892 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 16:54:41,957 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 16:56:46,582 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 16:56:46,643 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-04-30 17:02:15,554 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 17:02:15,616 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-04-30 17:03:20,542 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 17:03:20,602 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 17:21:58,693 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 17:21:58,751 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 17:24:53,744 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 17:24:53,804 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 17:32:25,777 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 17:32:25,838 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 17:38:18,639 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 17:38:18,702 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-04-30 17:41:35,161 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 17:41:35,361 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-04-30 20:47:21,702 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 20:49:27,430 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 20:49:35,701 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for entering invalid email at Email Field empty
+2022-04-30 21:04:38,503 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 21:07:11,224 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 21:08:21,032 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 21:10:19,733 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 21:10:21,940 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-04-30 21:43:30,126 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 21:43:32,337 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 21:48:36,013 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 21:48:38,229 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-04-30 21:50:26,087 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-04-30 21:50:28,299 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-05-01 08:29:41,463 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 08:29:43,677 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-05-01 08:29:53,919 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field empty
+2022-05-01 11:24:20,980 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 11:24:21,692 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-05-01 11:24:30,699 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 11:25:38,611 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 11:25:39,311 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-05-01 11:25:48,767 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 11:25:57,357 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 11:26:41,815 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 11:26:42,531 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-05-01 11:27:00,492 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 13:17:35,075 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 13:17:35,754 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-05-01 13:17:44,044 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 13:17:51,400 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 18:56:59,403 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 18:57:00,109 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-05-01 18:57:12,699 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 18:58:20,785 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 18:58:30,680 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for keeping Password Field empty
+2022-05-01 19:08:14,176 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 19:08:14,888 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 19:08:22,627 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 19:08:28,703 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 19:08:34,564 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 20:23:15,205 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 20:23:15,910 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 20:23:23,535 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 20:23:29,976 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 20:23:36,817 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 20:23:42,463 - MMADminPortalLogs -ERROR - Password is not in mask when admin typing password at Password field
+2022-05-01 20:23:49,620 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for entering unregistered email at Email Field
+2022-05-01 20:23:56,786 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-01 20:24:06,619 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-01 20:24:15,196 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-01 20:57:51,847 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 20:57:52,551 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 20:58:00,024 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 20:58:08,034 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 20:58:15,282 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 20:58:21,579 - MMADminPortalLogs -ERROR - Password is not in mask when admin typing password at Password field
+2022-05-01 20:58:29,811 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for entering unregistered email at Email Field
+2022-05-01 20:58:37,847 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-01 20:58:48,713 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-01 20:59:06,205 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-01 20:59:54,852 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 20:59:55,557 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 21:00:04,808 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 21:00:13,710 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 21:00:25,039 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 21:00:34,370 - MMADminPortalLogs -ERROR - Password is not in mask when admin typing password at Password field
+2022-05-01 21:00:48,531 - MMADminPortalLogs -ERROR - Proper validation message is not displaying for entering unregistered email at Email Field
+2022-05-01 21:01:02,733 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-01 21:01:23,606 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-01 21:01:40,662 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-01 21:04:21,077 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 21:04:21,775 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 21:04:30,670 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-01 21:04:38,208 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-01 21:04:49,094 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-01 21:04:56,304 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-01 21:05:05,041 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-05-01 21:05:13,240 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-01 21:05:23,128 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-01 21:06:00,933 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-01 21:08:02,658 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 19:59:55,642 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:00:19,671 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 20:00:20,372 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 20:00:27,832 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-05 20:00:33,715 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 20:00:39,651 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 20:00:44,834 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-05 20:00:51,994 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-05-05 20:00:59,222 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-05 20:04:14,777 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:05:24,762 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:14:28,070 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 20:14:28,776 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 20:14:35,261 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:14:42,875 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-05 20:14:49,483 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 20:14:55,485 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 20:15:00,842 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-05 20:15:08,356 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-05-05 20:15:15,350 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-05 20:15:24,659 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 20:15:32,912 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 20:22:44,087 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 20:22:44,790 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 20:22:50,220 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:23:45,611 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 20:23:46,318 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 20:23:51,824 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:29:00,439 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 20:29:01,122 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 20:29:07,529 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:41:10,577 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:41:20,097 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 20:48:07,460 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 20:48:15,348 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 20:59:06,685 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 20:59:12,261 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 21:02:37,751 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 21:02:38,445 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 21:02:45,579 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-05 21:02:51,663 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-05 21:02:57,414 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-05 21:03:02,900 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-05 21:03:10,290 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-05-05 21:03:17,179 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-05 21:03:24,951 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 21:03:33,744 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 21:03:39,362 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-05 22:23:31,107 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-05 22:23:36,598 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 00:03:27,399 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 00:03:32,733 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 00:05:38,182 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 00:05:38,864 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 00:05:46,781 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-06 00:05:52,622 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 00:05:58,469 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 00:06:03,512 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-06 00:06:10,655 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-05-06 00:06:17,807 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-06 00:06:26,640 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 00:06:34,584 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 00:06:40,177 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 00:17:18,909 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 00:17:19,603 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 00:17:24,951 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 00:17:31,875 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-06 00:17:37,501 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 00:31:00,881 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login
+2022-05-06 00:31:06,680 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 00:31:34,570 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 00:31:35,262 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 00:31:48,460 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 00:31:54,217 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 00:31:59,315 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-06 00:32:19,643 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login
+2022-05-06 00:32:30,265 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login
+2022-05-06 00:32:36,071 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 09:05:34,254 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 09:05:42,656 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 09:19:40,136 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 09:19:47,129 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 10:08:42,583 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 10:08:48,061 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 10:11:34,506 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 10:11:39,697 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 10:16:45,876 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 10:16:51,149 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 15:31:01,615 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 15:31:07,265 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 16:38:50,243 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 16:39:39,630 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 16:39:45,234 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 16:40:26,732 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 16:40:32,396 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 16:41:36,559 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 16:41:42,428 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 18:04:33,354 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 18:04:39,743 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 18:07:30,452 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 18:07:40,969 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 18:09:44,350 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 18:09:45,046 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 18:09:56,271 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-06 18:10:05,506 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 18:10:13,616 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 18:10:24,126 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-06 18:10:42,731 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-06 18:10:54,691 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 18:14:51,058 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 18:15:17,923 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-06 18:24:13,106 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 18:24:13,781 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 18:24:41,507 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-06 18:25:00,645 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-06 18:25:35,035 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-06 18:25:41,950 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-06 18:27:30,760 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 18:27:50,725 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-06 18:28:03,628 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-07 17:19:23,918 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-07 17:19:24,223 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-07 17:20:02,953 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-07 17:20:03,241 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-07 17:21:09,913 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-07 17:21:10,189 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-07 17:27:33,228 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-07 17:27:33,489 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-07 17:30:26,608 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-07 17:30:26,857 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-07 17:30:34,761 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-10 23:36:04,732 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-10 23:36:05,429 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-10 23:36:13,537 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-10 23:36:19,367 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-10 23:36:25,424 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-10 23:36:30,632 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-10 23:36:38,056 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-05-10 23:36:45,841 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-10 23:36:51,188 - MMADminPortalLogs -INFO - Enter email
+2022-05-10 23:36:51,347 - MMADminPortalLogs -INFO - Enter password
+2022-05-10 23:36:55,155 - MMADminPortalLogs -INFO - Click on Login button
+2022-05-10 23:36:55,293 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-10 23:37:00,670 - MMADminPortalLogs -INFO - Enter email
+2022-05-10 23:37:00,762 - MMADminPortalLogs -INFO - Enter password
+2022-05-10 23:37:05,167 - MMADminPortalLogs -INFO - Click on Login button
+2022-05-10 23:37:05,310 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-10 23:41:51,528 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-10 23:41:52,211 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-10 23:42:05,156 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-10 23:42:10,883 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-10 23:42:21,279 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-10 23:42:30,463 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-05-10 23:42:37,740 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-10 23:42:42,539 - MMADminPortalLogs -INFO - Enter email
+2022-05-10 23:42:42,627 - MMADminPortalLogs -INFO - Enter password
+2022-05-10 23:42:47,447 - MMADminPortalLogs -INFO - Click on Login button
+2022-05-10 23:42:47,591 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-10 23:42:52,794 - MMADminPortalLogs -INFO - Enter email
+2022-05-10 23:42:52,895 - MMADminPortalLogs -INFO - Enter password
+2022-05-10 23:42:55,734 - MMADminPortalLogs -INFO - Click on Login button
+2022-05-10 23:42:55,873 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-10 23:46:40,158 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-10 23:46:40,871 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-10 23:46:50,368 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-05-10 23:46:56,343 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-05-10 23:47:03,254 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-05-10 23:47:08,449 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-05-10 23:47:16,535 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-05-10 23:47:31,142 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-05-10 23:47:37,575 - MMADminPortalLogs -INFO - Enter email
+2022-05-10 23:47:37,665 - MMADminPortalLogs -INFO - Enter password
+2022-05-10 23:47:42,982 - MMADminPortalLogs -INFO - Click on Login button
+2022-05-10 23:47:43,133 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-10 23:48:24,599 - MMADminPortalLogs -INFO - Enter email
+2022-05-10 23:48:24,693 - MMADminPortalLogs -INFO - Enter password
+2022-05-10 23:48:30,743 - MMADminPortalLogs -INFO - Click on Login button
+2022-05-10 23:48:30,884 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-05-10 23:49:44,709 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-10 23:49:45,066 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-10 23:49:51,380 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-10 23:53:54,202 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-10 23:53:54,498 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-10 23:54:00,360 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 08:39:53,033 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-11 08:39:53,374 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-11 08:39:59,656 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 08:46:14,127 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-11 08:46:14,520 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-11 08:46:20,928 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 08:49:23,330 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-11 08:49:23,632 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-11 08:49:29,874 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 15:49:51,647 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-11 15:49:52,075 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-11 15:49:57,898 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 15:55:11,989 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-11 15:55:12,293 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-11 15:55:20,222 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 15:57:43,988 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-11 15:57:44,311 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-11 15:57:50,415 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 15:57:57,242 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 16:07:25,790 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-11 16:07:26,130 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-11 16:07:31,868 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 16:07:38,569 - MMADminPortalLogs -INFO - HTML validation message is displaying for entering invalid Email at Email field
+2022-05-11 20:45:50,586 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 20:46:04,696 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-05-11 20:47:29,276 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 20:47:43,414 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-05-11 21:16:25,346 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-11 21:16:41,400 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-05-12 10:21:15,794 - MMADminPortalLogs -INFO - OTP field does not allow any other characters rather than numbers
+2022-05-13 08:06:19,208 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping OTP field empty
+2022-05-13 08:42:17,163 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid OTP at OTP field
+2022-05-13 08:49:31,011 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-05-13 10:47:25,042 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-05-13 10:47:51,616 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-05-14 09:44:28,972 - MMADminPortalLogs -INFO - Password validation is not working properly if password does not contain any lowercase character
+2022-05-14 09:44:47,775 - MMADminPortalLogs -INFO - Password validation is not working properly if password does not contain any lowercase character
+2022-05-14 11:21:53,702 - MMADminPortalLogs -INFO - Password validation is not working properly if password does not contain any uppercase character
+2022-05-14 11:25:38,090 - MMADminPortalLogs -INFO - Password validation is not working properly if password does not contain any uppercase character
+2022-05-14 11:27:26,706 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any uppercase character
+2022-05-14 11:37:45,895 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any number
+2022-05-14 12:11:17,145 - MMADminPortalLogs -INFO - Password validation is not working properly if password does not contain any number
+2022-05-14 13:40:59,303 - MMADminPortalLogs -INFO - Password validation is not working properly if password does not contain any number
+2022-05-14 17:00:20,027 - MMADminPortalLogs -ERROR - Error message: User can resret new password without using any special character
+2022-05-14 20:29:00,241 - MMADminPortalLogs -ERROR - Password validation is not working if password length is less than 8 characters
+2022-05-14 20:37:09,930 - MMADminPortalLogs -INFO - Password validation is working if password length is less than 8 characters
+2022-05-14 20:37:09,963 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-05-15 08:45:54,899 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if space in entered within password
+2022-05-15 08:55:47,235 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if % character in entered within password
+2022-05-16 11:17:46,734 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if % character in entered within password
+2022-05-16 11:48:20,779 - MMADminPortalLogs -INFO - Wrong OTP Validation is working
+2022-05-19 21:01:10,787 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-19 21:03:25,103 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-19 21:05:21,426 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-19 21:08:46,085 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-19 21:09:40,733 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-19 21:11:31,453 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:03:13,943 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:04:28,373 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:05:05,548 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:06:50,678 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:07:52,263 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:13:58,776 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:13:58,991 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-20 08:16:31,521 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:18:44,244 - MMADminPortalLogs -ERROR - Password is not reseting
+2022-05-20 08:22:31,262 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-05-20 08:32:23,008 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-05-20 08:32:23,238 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-20 08:35:24,685 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-05-20 08:35:24,926 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-20 08:37:21,537 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-05-20 08:37:21,758 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-20 08:38:29,001 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-05-20 08:38:29,229 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-20 08:41:21,768 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-05-20 08:41:21,981 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-20 08:43:22,428 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-05-20 08:43:22,597 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-05-20 08:44:01,463 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-05-20 08:44:01,649 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-05-20 16:10:20,927 - MMADminPortalLogs -INFO - Password is reseting successfully and page is successfully redirecting to Login page after reseting password
+2022-05-20 16:10:20,974 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-21 09:14:58,787 - MMADminPortalLogs -INFO - Password is reseting successfully and page is successfully redirecting to Login page after reseting password
+2022-05-21 09:14:58,847 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-21 09:15:32,575 - MMADminPortalLogs -INFO - Password is reseting successfully and page is successfully redirecting to Login page after reseting password
+2022-05-21 09:15:32,641 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-23 21:08:03,867 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-05-23 21:08:40,822 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-05-23 22:03:58,983 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-05-23 22:11:47,011 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-05-24 10:59:34,133 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-05-24 11:03:44,577 - MMADminPortalLogs -INFO - Password is reseting successfully and page is successfully redirecting to Login page after reseting password
+2022-05-24 11:03:44,629 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-24 11:31:31,039 - MMADminPortalLogs -INFO - Password is reseting successfully and page is successfully redirecting to Login page after reseting password
+2022-05-24 11:31:31,108 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-05-24 11:32:53,676 - MMADminPortalLogs -INFO - Enter email
+2022-05-24 11:32:53,771 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-05-24 11:33:28,106 - MMADminPortalLogs -INFO - Click on Login button
+2022-05-24 11:33:28,250 - MMADminPortalLogs -INFO - Dashboard page is opening after login with newly changed password
+2022-05-24 11:49:42,586 - MMADminPortalLogs -INFO - Enter email
+2022-05-24 11:49:42,686 - MMADminPortalLogs -INFO - Enter expired password
+2022-05-24 11:49:44,224 - MMADminPortalLogs -INFO - Click on Login button
+2022-05-24 11:49:44,270 - MMADminPortalLogs -ERROR - Validation is not working when user is login with expired password
+2022-05-24 12:06:28,155 - MMADminPortalLogs -INFO - Password is reseting successfully for User Account and page is successfully redirecting to Login page after reseting User Account password
+2022-05-24 12:06:28,209 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password for User Account
+2022-05-24 12:18:44,528 - MMADminPortalLogs -INFO - In Reset Password page, Login button feature is working properly
+2022-05-24 12:32:04,689 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-05-24 12:33:54,658 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-05-24 12:33:54,945 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-05-24 12:34:00,889 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-05-24 12:34:07,660 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-05-24 12:34:14,577 - MMADminPortalLogs -INFO - Validation message is displaying for entering unregistered Email at Email field
+2022-05-24 12:34:21,689 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-05-24 12:34:34,152 - MMADminPortalLogs -INFO - OTP field does not allow any other characters rather than numbers
+2022-05-24 12:34:42,117 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping OTP field empty
+2022-05-24 12:34:50,571 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid OTP at OTP field
+2022-05-24 12:34:58,388 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-05-24 12:35:06,695 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any lowercase character
+2022-05-24 12:35:06,711 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-05-24 12:35:15,568 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any uppercase character
+2022-05-24 12:35:15,583 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-05-24 20:23:53,344 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-05-24 20:23:54,129 - MMADminPortalLogs -ERROR - Dashboard page is not opening while clicking on Dashboard menu name after user login
+2022-05-24 20:42:04,593 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-05-24 20:42:05,214 - MMADminPortalLogs -ERROR - Dashboard page is not opening while clicking on user account logo
+2022-05-24 20:42:39,516 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-05-24 20:42:40,165 - MMADminPortalLogs -ERROR - Dashboard page is not opening while clicking on user account logo
+2022-05-28 13:20:42,959 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-05-28 13:20:43,735 - MMADminPortalLogs -ERROR - Dashboard page is not opening while clicking on Dashboard menu name after user login
+2022-05-28 13:20:53,851 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-05-28 13:20:54,588 - MMADminPortalLogs -ERROR - Dashboard page is not opening while clicking on user account logo
+2022-06-02 14:50:39,650 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 14:50:40,284 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on Dashboard menu name after user login
+2022-06-02 14:51:57,251 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 14:51:57,944 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 14:52:04,945 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-06-02 14:52:10,413 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 14:52:15,963 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 14:52:20,910 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-02 14:52:27,728 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-06-02 14:52:34,619 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-02 14:52:39,274 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 14:52:39,394 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 14:52:41,738 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 14:52:41,892 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 14:52:46,571 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 14:52:46,694 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 14:52:49,103 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 14:52:49,264 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 14:52:54,190 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-06-02 14:52:54,202 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-06-02 14:53:00,010 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-06-02 14:53:06,412 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-06-02 14:53:12,710 - MMADminPortalLogs -INFO - Validation message is displaying for entering unregistered Email at Email field
+2022-06-02 14:53:19,282 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-06-02 14:53:26,341 - MMADminPortalLogs -INFO - OTP field does not allow any other characters rather than numbers
+2022-06-02 14:53:33,733 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping OTP field empty
+2022-06-02 14:53:41,797 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid OTP at OTP field
+2022-06-02 14:53:49,186 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-06-02 14:53:56,506 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any lowercase character
+2022-06-02 14:53:56,523 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 14:54:04,051 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any uppercase character
+2022-06-02 14:54:04,067 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 14:54:11,582 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any number
+2022-06-02 14:54:11,597 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 14:54:19,805 - MMADminPortalLogs -ERROR - Error message: User can resret new password without using any special character(% excluded)
+2022-06-02 14:54:27,110 - MMADminPortalLogs -INFO - Password validation is working if password length is less than 8 characters
+2022-06-02 14:54:27,142 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 14:54:35,323 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if space in entered within password
+2022-06-02 14:54:43,238 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if % character in entered within password
+2022-06-02 14:54:51,178 - MMADminPortalLogs -INFO - Wrong OTP Validation is working
+2022-06-02 14:54:58,363 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-06-02 14:55:17,882 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-06-02 14:55:18,057 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-06-02 14:55:25,093 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-06-02 14:55:32,035 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-06-02 14:55:36,732 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 14:55:36,856 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-06-02 14:55:38,570 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 14:55:38,582 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login with newly changed password
+2022-06-02 14:55:43,629 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 14:55:43,752 - MMADminPortalLogs -INFO - Enter expired password
+2022-06-02 14:55:45,322 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 14:55:45,365 - MMADminPortalLogs -ERROR - Either Validation is not working or pproper validation message is not displaying when user is login with expired password
+2022-06-02 14:56:03,775 - MMADminPortalLogs -ERROR - Password is not reseting for User Account and page is not redirecting to Login page
+2022-06-02 14:56:03,948 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-06-02 14:56:11,673 - MMADminPortalLogs -INFO - In Reset Password page, Login button feature is working properly
+2022-06-02 14:56:18,403 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-06-02 14:56:25,840 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 14:56:26,441 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on Dashboard menu name after user login
+2022-06-02 14:56:33,655 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 14:56:34,345 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on user account logo
+2022-06-02 15:00:48,279 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 15:00:48,974 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 15:00:56,625 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-06-02 15:01:02,203 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 15:01:07,727 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 15:01:12,441 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-02 15:01:19,535 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-06-02 15:01:26,508 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-02 15:01:31,240 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 15:01:31,351 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 15:01:33,913 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 15:01:34,065 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 15:01:38,760 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 15:01:38,877 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 15:01:41,424 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 15:01:41,580 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 15:01:46,626 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-06-02 15:01:46,634 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-06-02 15:01:52,707 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-06-02 15:01:59,951 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-06-02 15:02:20,363 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-06-02 15:02:20,544 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-06-02 15:02:27,785 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-06-02 15:02:34,814 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-06-02 15:02:39,482 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 15:02:39,599 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-06-02 15:02:41,485 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 15:02:41,494 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login with newly changed password
+2022-06-02 15:02:46,272 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 15:02:46,395 - MMADminPortalLogs -INFO - Enter expired password
+2022-06-02 15:02:47,834 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 15:03:06,918 - MMADminPortalLogs -ERROR - Password is not reseting for User Account and page is not redirecting to Login page
+2022-06-02 15:03:07,074 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-06-02 15:03:14,893 - MMADminPortalLogs -INFO - In Reset Password page, Login button feature is working properly
+2022-06-02 15:03:21,540 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-06-02 15:03:28,841 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 15:03:29,498 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on Dashboard menu name after user login
+2022-06-02 15:03:36,741 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 15:03:37,448 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on user account logo
+2022-06-02 15:49:48,123 - MMADminPortalLogs -INFO - Correct prefund balance is displaying in dashboard
+2022-06-02 15:50:32,695 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 15:50:33,389 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 15:50:40,311 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-06-02 15:50:45,854 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 15:50:51,349 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 15:50:56,219 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-02 15:51:09,945 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-02 15:51:14,702 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 15:51:14,797 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 15:51:17,280 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 15:51:17,430 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 15:51:22,065 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 15:51:22,166 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 15:51:24,694 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 15:51:24,850 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 15:51:29,908 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-06-02 15:51:29,919 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-06-02 15:51:36,334 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-06-02 15:51:43,498 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-06-02 15:52:06,982 - MMADminPortalLogs -INFO - Password is reseting successfully and page is successfully redirecting to Login page after reseting password
+2022-06-02 15:52:07,040 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password
+2022-06-02 15:52:14,417 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-06-02 15:52:21,606 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-06-02 15:52:26,267 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 15:52:26,364 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-06-02 15:52:28,891 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 15:52:29,041 - MMADminPortalLogs -INFO - Dashboard page is opening after login with newly changed password
+2022-06-02 15:52:33,667 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 15:52:33,763 - MMADminPortalLogs -INFO - Enter expired password
+2022-06-02 15:52:35,096 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 15:52:35,145 - MMADminPortalLogs -ERROR - Either Validation is not working or pproper validation message is not displaying when user is login with expired password
+2022-06-02 15:52:54,915 - MMADminPortalLogs -INFO - Password is reseting successfully for User Account and page is successfully redirecting to Login page after reseting User Account password
+2022-06-02 15:52:54,973 - MMADminPortalLogs -INFO - Proper success message is displaying at Login page after reseting password for User Account
+2022-06-02 15:53:02,654 - MMADminPortalLogs -INFO - In Reset Password page, Login button feature is working properly
+2022-06-02 15:53:09,086 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-06-02 15:53:16,463 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 15:53:17,030 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on Dashboard menu name after user login
+2022-06-02 15:53:24,228 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 15:53:25,174 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on user account logo
+2022-06-02 15:53:33,730 - MMADminPortalLogs -INFO - Correct prefund balance is displaying in dashboard
+2022-06-02 16:18:53,521 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-06-02 16:20:55,782 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 16:20:56,498 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 16:21:09,045 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 16:21:14,604 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 16:21:19,266 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-02 16:21:25,879 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-06-02 16:21:32,701 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-02 16:21:37,367 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 16:21:37,460 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 16:21:41,452 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 16:21:41,600 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 16:21:46,210 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 16:21:46,330 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 16:21:49,021 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 16:21:49,170 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 16:21:54,170 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-06-02 16:21:54,179 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-06-02 16:21:59,854 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-06-02 16:22:06,159 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-06-02 16:22:12,469 - MMADminPortalLogs -INFO - Validation message is displaying for entering unregistered Email at Email field
+2022-06-02 16:22:18,703 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-06-02 16:22:25,561 - MMADminPortalLogs -INFO - OTP field does not allow any other characters rather than numbers
+2022-06-02 16:22:32,727 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping OTP field empty
+2022-06-02 16:22:48,426 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-06-02 16:22:55,531 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any lowercase character
+2022-06-02 16:22:55,543 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 16:23:03,406 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any uppercase character
+2022-06-02 16:23:03,418 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 16:23:11,284 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any number
+2022-06-02 16:23:11,311 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 16:23:20,291 - MMADminPortalLogs -ERROR - Error message: User can resret new password without using any special character(% excluded)
+2022-06-02 16:23:27,593 - MMADminPortalLogs -INFO - Password validation is working if password length is less than 8 characters
+2022-06-02 16:23:27,608 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 16:23:36,787 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if space in entered within password
+2022-06-02 16:23:45,016 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if % character in entered within password
+2022-06-02 16:23:53,412 - MMADminPortalLogs -ERROR - Wrong OTP Validation is not working
+2022-06-02 16:24:00,747 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-06-02 16:24:49,503 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-06-02 16:24:49,697 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-06-02 16:24:56,842 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-06-02 16:25:03,737 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-06-02 16:25:08,330 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 16:25:08,451 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-06-02 16:25:09,916 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 16:25:09,925 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login with newly changed password
+2022-06-02 16:25:14,651 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 16:25:14,766 - MMADminPortalLogs -INFO - Enter expired password
+2022-06-02 16:25:16,132 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 16:25:16,173 - MMADminPortalLogs -ERROR - Either Validation is not working or proper validation message is not displaying when user is login with expired password
+2022-06-02 16:26:09,864 - MMADminPortalLogs -INFO - In Reset Password page, Login button feature is working properly
+2022-06-02 16:26:16,510 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-06-02 16:26:23,787 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 16:26:24,737 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on Dashboard menu name after user login
+2022-06-02 16:26:32,117 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 16:26:32,699 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on user account logo
+2022-06-02 16:26:41,174 - MMADminPortalLogs -INFO - Correct prefund balance is displaying in dashboard
+2022-06-02 16:51:45,800 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 16:51:46,519 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 16:51:53,225 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-06-02 16:51:58,625 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 16:52:04,148 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 16:52:09,095 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-02 16:52:15,940 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-06-02 16:52:22,819 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-02 16:52:27,718 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 16:52:27,835 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 16:52:30,261 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 16:52:30,405 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 16:52:35,255 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 16:52:35,348 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 16:52:37,881 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 16:52:38,038 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 16:59:19,384 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 16:59:20,060 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 16:59:27,006 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-06-02 16:59:32,601 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-02 16:59:38,298 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-02 16:59:43,292 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-02 16:59:49,958 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-06-02 16:59:56,885 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-02 17:00:01,824 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 17:00:01,931 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 17:00:05,056 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 17:00:05,210 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 17:00:09,873 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 17:00:10,005 - MMADminPortalLogs -INFO - Enter password
+2022-06-02 17:00:12,513 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 17:00:12,665 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-02 17:00:17,854 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-06-02 17:00:17,862 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-06-02 17:00:23,563 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-06-02 17:00:29,918 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-06-02 17:00:36,094 - MMADminPortalLogs -INFO - Validation message is displaying for entering unregistered Email at Email field
+2022-06-02 17:00:42,439 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-06-02 17:00:49,869 - MMADminPortalLogs -INFO - OTP field does not allow any other characters rather than numbers
+2022-06-02 17:00:57,477 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping OTP field empty
+2022-06-02 17:01:05,922 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid OTP at OTP field
+2022-06-02 17:01:13,155 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-06-02 17:01:20,417 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any lowercase character
+2022-06-02 17:01:20,442 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 17:01:28,324 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any uppercase character
+2022-06-02 17:01:28,336 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 17:01:36,426 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any number
+2022-06-02 17:01:36,442 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 17:01:44,946 - MMADminPortalLogs -ERROR - Error message: User can resret new password without using any special character(% excluded)
+2022-06-02 17:01:52,534 - MMADminPortalLogs -INFO - Password validation is working if password length is less than 8 characters
+2022-06-02 17:01:52,550 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-02 17:02:01,567 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if space in entered within password
+2022-06-02 17:02:09,859 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if % character in entered within password
+2022-06-02 17:02:18,006 - MMADminPortalLogs -INFO - Wrong OTP Validation is working
+2022-06-02 17:02:25,148 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-06-02 17:03:13,144 - MMADminPortalLogs -ERROR - Password is not reseting and page is not redirecting to Login page
+2022-06-02 17:03:13,342 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-06-02 17:03:20,697 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-06-02 17:03:27,702 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-06-02 17:03:32,455 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 17:03:32,552 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-06-02 17:03:34,005 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 17:03:34,013 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login with newly changed password
+2022-06-02 17:03:38,920 - MMADminPortalLogs -INFO - Enter email
+2022-06-02 17:03:39,026 - MMADminPortalLogs -INFO - Enter expired password
+2022-06-02 17:03:40,410 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-02 17:03:40,444 - MMADminPortalLogs -ERROR - Either Validation is not working or proper validation message is not displaying when user is login with expired password
+2022-06-02 17:04:28,815 - MMADminPortalLogs -ERROR - Password is not reseting for User Account and page is not redirecting to Login page
+2022-06-02 17:04:28,997 - MMADminPortalLogs -ERROR - Error message: Password reseting feature is not working
+2022-06-02 17:04:36,882 - MMADminPortalLogs -INFO - In Reset Password page, Login button feature is working properly
+2022-06-02 17:04:46,503 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-06-02 17:05:00,137 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-02 17:05:00,797 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on user account logo
+2022-06-02 17:05:10,389 - MMADminPortalLogs -INFO - Correct prefund balance is displaying in dashboard
+2022-06-21 17:42:59,147 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-21 17:42:59,825 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-21 17:43:11,037 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-21 17:43:16,108 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-21 17:43:20,700 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-21 17:43:33,599 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-21 17:43:37,934 - MMADminPortalLogs -INFO - Enter email
+2022-06-21 17:43:38,021 - MMADminPortalLogs -INFO - Enter password
+2022-06-21 17:43:40,370 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-21 17:43:40,515 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-21 17:43:44,843 - MMADminPortalLogs -INFO - Enter email
+2022-06-21 17:43:44,928 - MMADminPortalLogs -INFO - Enter password
+2022-06-21 17:43:48,350 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-21 17:43:48,491 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-21 17:43:53,350 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-06-21 17:43:53,358 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-06-21 17:43:58,620 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-06-21 17:44:04,771 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-06-21 17:44:10,820 - MMADminPortalLogs -INFO - Validation message is displaying for entering unregistered Email at Email field
+2022-06-21 17:44:17,003 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-06-21 17:44:23,550 - MMADminPortalLogs -INFO - OTP field does not allow any other characters rather than numbers
+2022-06-21 17:44:30,334 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping OTP field empty
+2022-06-21 17:44:39,286 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid OTP at OTP field
+2022-06-21 17:44:46,088 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-06-21 17:44:52,725 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any lowercase character
+2022-06-21 17:44:52,741 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-21 17:44:59,777 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any uppercase character
+2022-06-21 17:44:59,792 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-21 17:45:07,165 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any number
+2022-06-21 17:45:07,180 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-21 17:45:15,142 - MMADminPortalLogs -ERROR - Error message: User can resret new password without using any special character(% excluded)
+2022-06-21 17:45:21,958 - MMADminPortalLogs -INFO - Password validation is working if password length is less than 8 characters
+2022-06-21 17:45:21,972 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-21 17:45:30,645 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if space in entered within password
+2022-06-21 17:45:38,548 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if % character in entered within password
+2022-06-21 17:45:46,486 - MMADminPortalLogs -INFO - Wrong OTP Validation is working
+2022-06-21 17:45:53,148 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-06-21 17:46:44,654 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-06-21 17:46:51,136 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-06-21 17:46:55,368 - MMADminPortalLogs -INFO - Enter email
+2022-06-21 17:46:55,496 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-06-21 17:46:57,574 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-21 17:46:57,581 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login with newly changed password
+2022-06-21 17:47:02,211 - MMADminPortalLogs -INFO - Enter email
+2022-06-21 17:47:02,342 - MMADminPortalLogs -INFO - Enter expired password
+2022-06-21 17:47:04,231 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-21 17:47:04,263 - MMADminPortalLogs -ERROR - Either Validation is not working or proper validation message is not displaying when user is login with expired password
+2022-06-21 17:47:56,252 - MMADminPortalLogs -INFO - In Reset Password page, Login button feature is working properly
+2022-06-21 17:48:02,364 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-06-21 17:48:09,065 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-21 17:48:09,950 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on Dashboard menu name after user login
+2022-06-21 17:48:16,719 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-21 17:48:17,627 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on user account logo
+2022-06-21 17:48:25,485 - MMADminPortalLogs -INFO - Correct prefund balance is displaying in dashboard
+2022-06-21 18:03:52,264 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-21 18:03:52,985 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-21 18:03:59,921 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-06-21 18:04:04,981 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-21 18:04:10,152 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-21 18:04:14,598 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-21 18:04:27,668 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-21 18:04:31,855 - MMADminPortalLogs -INFO - Enter email
+2022-06-21 18:04:31,942 - MMADminPortalLogs -INFO - Enter password
+2022-06-21 18:04:34,079 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-21 18:04:34,223 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-21 18:04:38,683 - MMADminPortalLogs -INFO - Enter email
+2022-06-21 18:04:38,784 - MMADminPortalLogs -INFO - Enter password
+2022-06-21 18:04:41,106 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-21 18:04:41,251 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-21 18:04:45,776 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-06-21 18:04:45,785 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-06-21 18:04:50,870 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-06-21 18:04:57,009 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-06-21 18:05:03,253 - MMADminPortalLogs -INFO - Validation message is displaying for entering unregistered Email at Email field
+2022-06-21 18:05:08,822 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-06-21 18:05:15,153 - MMADminPortalLogs -INFO - OTP field does not allow any other characters rather than numbers
+2022-06-21 18:05:21,810 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping OTP field empty
+2022-06-21 18:05:29,397 - MMADminPortalLogs -ERROR - Validation message is not displaying for entering invalid OTP at OTP field
+2022-06-21 18:05:36,298 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-06-21 18:05:42,938 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any lowercase character
+2022-06-21 18:05:42,951 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-21 18:05:49,685 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any uppercase character
+2022-06-21 18:05:49,700 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-21 18:05:56,965 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any number
+2022-06-21 18:05:56,981 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-21 18:06:04,681 - MMADminPortalLogs -ERROR - Error message: User can resret new password without using any special character(% excluded)
+2022-06-21 18:06:11,454 - MMADminPortalLogs -INFO - Password validation is working if password length is less than 8 characters
+2022-06-21 18:06:11,468 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-21 18:06:19,236 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if space in entered within password
+2022-06-21 18:06:26,989 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if % character in entered within password
+2022-06-21 18:06:34,697 - MMADminPortalLogs -ERROR - Wrong OTP Validation is not working
+2022-06-21 18:06:41,584 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-06-21 18:07:37,009 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-06-21 18:07:43,456 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-06-21 18:07:47,689 - MMADminPortalLogs -INFO - Enter email
+2022-06-21 18:07:47,791 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-06-21 18:07:49,794 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-21 18:07:49,799 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login with newly changed password
+2022-06-21 18:07:54,251 - MMADminPortalLogs -INFO - Enter email
+2022-06-21 18:07:54,344 - MMADminPortalLogs -INFO - Enter expired password
+2022-06-21 18:07:55,761 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-21 18:08:47,649 - MMADminPortalLogs -INFO - In Reset Password page, Login button feature is working properly
+2022-06-21 18:08:53,693 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-06-21 18:09:00,539 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-21 18:09:01,414 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on Dashboard menu name after user login
+2022-06-21 18:09:08,567 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-21 18:09:09,386 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on user account logo
+2022-06-21 18:09:17,123 - MMADminPortalLogs -INFO - Correct prefund balance is displaying in dashboard
+2022-06-21 18:35:01,665 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-21 18:35:02,356 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-21 18:35:15,967 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-21 18:35:20,996 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-21 18:35:25,396 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-21 18:35:38,402 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-21 18:36:14,253 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-21 19:27:11,693 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-21 19:27:12,399 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-21 19:27:31,090 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-21 19:27:37,974 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-06-22 16:44:08,266 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-22 16:44:08,977 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-22 16:44:16,435 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-06-22 16:44:21,770 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-22 19:05:30,319 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-22 19:05:31,012 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-22 19:05:39,769 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-22 19:27:39,014 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-23 21:08:13,897 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-23 21:08:14,590 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-23 21:08:47,089 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-06-23 21:09:22,508 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-23 21:09:23,196 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-23 21:09:31,129 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering invalid email at Email Field
+2022-06-23 21:09:36,493 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Email Field empty
+2022-06-23 21:09:41,757 - MMADminPortalLogs -INFO - Proper validation message is displaying for keeping Password Field empty
+2022-06-23 21:09:46,356 - MMADminPortalLogs -INFO - Password is in mask when admin typing password at Password field
+2022-06-23 21:09:53,589 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering unregistered email at Email Field
+2022-06-23 21:10:01,955 - MMADminPortalLogs -INFO - Proper validation message is displaying for entering correct email at Email Field but wrong password at Password field
+2022-06-23 21:10:06,703 - MMADminPortalLogs -INFO - Enter email
+2022-06-23 21:10:06,808 - MMADminPortalLogs -INFO - Enter password
+2022-06-23 21:10:10,504 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-23 21:10:10,651 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-23 21:10:15,586 - MMADminPortalLogs -INFO - Enter email
+2022-06-23 21:10:15,681 - MMADminPortalLogs -INFO - Enter password
+2022-06-23 21:10:19,052 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-23 21:10:19,221 - MMADminPortalLogs -INFO - Dashboard page is opening after successful login
+2022-06-23 21:10:23,959 - MMADminPortalLogs -INFO - Click on Forgot Password button in the login page
+2022-06-23 21:10:23,974 - MMADminPortalLogs -INFO - Forgot Password Page is opening successfully
+2022-06-23 21:10:30,086 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping Email field empty
+2022-06-23 21:10:36,550 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid Email at Email field
+2022-06-23 21:10:42,815 - MMADminPortalLogs -INFO - Validation message is displaying for entering unregistered Email at Email field
+2022-06-23 21:10:49,147 - MMADminPortalLogs -INFO - Reset password page is opening
+2022-06-23 21:10:56,369 - MMADminPortalLogs -INFO - OTP field does not allow any other characters rather than numbers
+2022-06-23 21:11:03,485 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping OTP field empty
+2022-06-23 21:11:12,168 - MMADminPortalLogs -INFO - Validation message is displaying for entering invalid OTP at OTP field
+2022-06-23 21:11:19,172 - MMADminPortalLogs -INFO - HTML validation message is displaying for keeping NewPassword field empty
+2022-06-23 21:11:26,009 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any lowercase character
+2022-06-23 21:11:26,024 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-23 21:11:33,424 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any uppercase character
+2022-06-23 21:11:33,439 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-23 21:11:40,545 - MMADminPortalLogs -INFO - Password validation is working properly if password does not contain any number
+2022-06-23 21:11:40,558 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-23 21:11:49,366 - MMADminPortalLogs -ERROR - Error message: User can resret new password without using any special character(% excluded)
+2022-06-23 21:11:56,284 - MMADminPortalLogs -INFO - Password validation is working if password length is less than 8 characters
+2022-06-23 21:11:56,297 - MMADminPortalLogs -ERROR - Password format validation message is not displaying properly
+2022-06-23 21:12:05,220 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if space in entered within password
+2022-06-23 21:12:13,917 - MMADminPortalLogs -ERROR - Error message: Password validation is not working if % character in entered within password
+2022-06-23 21:12:22,852 - MMADminPortalLogs -INFO - Wrong OTP Validation is working
+2022-06-23 21:12:29,676 - MMADminPortalLogs -INFO - Validation is working if Password and Confirm Password are not same
+2022-06-23 21:13:24,814 - MMADminPortalLogs -INFO - Password masking feature is working for New Password field
+2022-06-23 21:13:31,662 - MMADminPortalLogs -INFO - Password masking feature is working for Confirm Password field
+2022-06-23 21:13:36,142 - MMADminPortalLogs -INFO - Enter email
+2022-06-23 21:13:36,243 - MMADminPortalLogs -INFO - Enter newly changed password
+2022-06-23 21:13:38,527 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-23 21:13:38,538 - MMADminPortalLogs -ERROR - Dashboard page is not opening after login with newly changed password
+2022-06-23 21:13:43,176 - MMADminPortalLogs -INFO - Enter email
+2022-06-23 21:13:43,264 - MMADminPortalLogs -INFO - Enter expired password
+2022-06-23 21:13:44,646 - MMADminPortalLogs -INFO - Click on Login button
+2022-06-23 21:14:41,015 - MMADminPortalLogs -INFO - In Forgot Password page, Login button feature is working properly
+2022-06-23 21:23:18,550 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-23 21:23:19,103 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on Dashboard menu name after user login
+2022-06-23 21:23:26,725 - MMADminPortalLogs -INFO - User dashboard is opening
+2022-06-23 21:23:27,341 - MMADminPortalLogs -INFO - Dashboard page is opening while clicking on user account logo
+2022-06-23 21:23:37,200 - MMADminPortalLogs -INFO - Correct prefund balance is displaying in dashboard

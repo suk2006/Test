@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FPSuite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Test_FP(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn">
+        <methods>
+          <include name="MMAdmin_TC_2_001"/>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="endTest"/>
+          <include name="initialiseReport"/>
+        </methods>
+      </class> <!-- com.stylopay.MMAdmin.testCases.forgotPassword.MMAdmin_TC_2_001_ForgotPwd_ClkForgotPwdBtn -->
+    </classes>
+  </test> <!-- Test_FP(failed) -->
+</suite> <!-- Failed suite [FPSuite] -->
